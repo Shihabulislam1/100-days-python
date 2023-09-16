@@ -1,4 +1,4 @@
-
+# Finding sum of first n digits of a number
 
 num = input("Enter your  number: ")
 digit = int(input("Enter the digits of the number you want to add: "))
