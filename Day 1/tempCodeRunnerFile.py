@@ -1,0 +1,1 @@
+var2=input("gIVE NUMBER")
