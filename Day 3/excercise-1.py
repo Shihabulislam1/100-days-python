@@ -8,3 +8,4 @@ if number % 2 == 0:
     print(str(number)+" is Even")
 elif number % 2 != 0:
     print(str(number)+" is Odd")
+
