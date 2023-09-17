@@ -9,3 +9,5 @@ if number % 2 == 0:
 elif number % 2 != 0:
     print(str(number)+" is Odd")
 
+
+
