@@ -7,3 +7,5 @@ if num==0:
     print("Heads")
 elif num==1:
     print("Tails")
+
+    
