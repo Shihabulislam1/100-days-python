@@ -11,6 +11,7 @@
 #### Day 4: Beginner - Randomisation and Python Lists
       https://github.com/Shihabulislam1/100-days-python/tree/main/Day%204
 #### Day 5: Beginner - Python Loops
+      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%205
 #### Day 6: Beginner - Python Functions & Karel
 #### Day 7: Beginner - Hangman
 #### Day 8: Beginner - Function Parameters & Caesar Cipher
