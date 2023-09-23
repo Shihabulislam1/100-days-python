@@ -2,16 +2,16 @@
 
 ## These are the codes I did during my 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 
-#### Day 1: Beginner - Working with Variables in Python to Manage Data
-      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%201
-#### Day 2: Beginner - Understanding Data Types and How to Manipulate Strings
-      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%202
-#### Day 3: Beginner - Control Flow and Logical Operators
-      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%203
-#### Day 4: Beginner - Randomisation and Python Lists
-      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%204
-#### Day 5: Beginner - Python Loops
-      https://github.com/Shihabulislam1/100-days-python/tree/main/Day%205
+#### [Day 1: Beginner - Working with Variables in Python to Manage Data](https://github.com/Shihabulislam1/100-days-python/tree/main/Day%201)
+
+#### [Day 2: Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/Shihabulislam1/100-days-python/tree/main/Day%202)
+
+#### [Day 3: Beginner - Control Flow and Logical Operators](https://github.com/Shihabulislam1/100-days-python/tree/main/Day%203)
+
+#### [Day 4: Beginner - Randomisation and Python Lists](https://github.com/Shihabulislam1/100-days-python/tree/main/Day%204)
+
+#### [Day 5: Beginner - Python Loops](https://github.com/Shihabulislam1/100-days-python/tree/main/Day%205)
+
 #### Day 6: Beginner - Python Functions & Karel
 #### Day 7: Beginner - Hangman
 #### Day 8: Beginner - Function Parameters & Caesar Cipher
